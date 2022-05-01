@@ -8,11 +8,9 @@ Each user is granted an uniqe code and can chat anonymously in the chat!
 
 ## Usage
 
-
-https://user-images.githubusercontent.com/88069759/166158308-9a193367-15c8-473d-ae5d-c08eea0975ca.mp4
-
-
 Have fun to chat with friends !
+
+https://user-images.githubusercontent.com/88069759/166158334-3121fe66-1b45-437b-9eff-d73f7ae5c29f.mp4
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
